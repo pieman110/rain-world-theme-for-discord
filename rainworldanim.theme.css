@@ -1,5 +1,5 @@
 /**
- * @name rain world
+ * @name rain world animated
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -21,7 +21,7 @@
   --background-image: url('https://i.imgur.com/fQne0e6.gif');
   --background-shading: 20%;
   --background-position: center;
-  --background-size: 125%;
+  --background-size: 300%;
   --background-repeat: no-repeat;
   --background-attachment: fixed;
   --background-brightness: 100%;
